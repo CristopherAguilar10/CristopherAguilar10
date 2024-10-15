@@ -10,7 +10,7 @@
 
 <img align="Center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgzYXN3cjFkbDNzcXJuM2plamd2eHVyNTBqcGM2NzVveWRsd3lleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.webp">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=98F736&random=false&width=435&lines=%C2%BFWhy+not+you%3F)](https://git.io/typing-svg)
+
 
 <p>Dream, practice, learn, fail, achieve.</p>
 
