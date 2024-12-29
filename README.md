@@ -8,7 +8,7 @@
 
 
 
-<img align="Center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHgzYXN3cjFkbDNzcXJuM2plamd2eHVyNTBqcGM2NzVveWRsd3lleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.webp">
+
 
 
 
@@ -24,3 +24,18 @@
 <a href="https://x.com/AguilarJank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cristoppher__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CristopherAguilar10&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristopherAguilar10&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+
+
