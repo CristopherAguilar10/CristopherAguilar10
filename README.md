@@ -16,7 +16,7 @@
 
 
 <!--Breve descripcion-->
-<h3 align="left">About me:</h3>
+<h3 align="left">About m:</h3>
 -  Software developer trying to explore web3
 <!--Contacto-->
 <h3 align="left">Connect with me:</h3>
