@@ -6,15 +6,6 @@
 
 
 
-
-
-
-
-
-
-<p>Dream, practice, learn, fail, achieve.</p>
-
-
 <!--Breve descripcion-->
 <h3 align="left">About me:</h3>
 -  Software developer trying to explore web3
